@@ -39,7 +39,7 @@ My GitHub is my mad scientist laboratory, where I do experiments, learn new tech
 <div align='center'>
   <a target='_blank' src='https://www.linkedin.com/in/eliton-machado-da-silva-098b0a1a2'><img src='https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white'></a>
   <a target='_blank' src='mailto:elitonmachadod200@gmail.com'><img src='https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white'></a>
-  <a target='_blank' src='https://www.linkedin.com/in/durvalcsouza/'><img src='https://img.shields.io/badge/-telegram-blue?style=flat-square&logo=Telegram&logoColor=white'></a>
+  <a target='_blank' src='https://www.linkedin.com/in/eliton-machado-da-silva-098b0a1a2'><img src='https://img.shields.io/badge/-telegram-blue?style=flat-square&logo=Telegram&logoColor=white'></a>
 </div>
 
 ### I love gifs!!
