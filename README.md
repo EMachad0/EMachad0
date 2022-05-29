@@ -24,7 +24,7 @@
 
 ## Who am I
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=EMachad0&theme=radical&show_icons=true&theme=tokyonight">](https://github-readme-stats.vercel.app/api?username=EMachad0&theme=radical&show_icons=true&theme=tokyonight)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=EMachad0&show_icons=true&theme=tokyonight">](https://github-readme-stats.vercel.app/api?username=EMachad0&show_icons=true&theme=tokyonight)
 
 Living in Joinville - SC, Brazil. I'm a Computer Science student at UDESC, an enthusiast for innovation and technology, 
 
