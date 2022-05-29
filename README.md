@@ -4,19 +4,22 @@
 
 ## Things I code with
 <p align='center'>
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-orange?style=flat-square&logo=rust&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=Python&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C%2b%2b-007ACC?style=flat-square&logo=c%2b%2b&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-blueviolet?style=flat-square&logo=kotlin&logoColor=white" />
+  <img alt="Haskell" src="https://img.shields.io/badge/-Haskell-blueviolet?style=flat-square&logo=haskell&logoColor=white" />
+  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue-brightgreen?style=flat-square&logo=Vue.js&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000" />
-  <img alt="Django" src="https://img.shields.io/badge/-django-fff?&logo=django&logoColor=green" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/-ubuntu-fff?&logo=ubuntu&logoColor=orange" />
-  <img alt="MySql" src="https://img.shields.io/badge/-MySQL-fff?&logo=mysql&logoColor=orange" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-fff?style=flat-square&logo=flask&logoColor=green" />
+  <img alt="Rails" src="https://img.shields.io/badge/-Rails-red?style=flat-square&logo=ruby-on-rails&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-fff?style=flat-square&logo=linux&logoColor=000" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-ubuntu-fff?style=flat-square&logo=ubuntu&logoColor=orange" />
 </p>
 
 ## Who am I
