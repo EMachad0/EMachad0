@@ -42,7 +42,7 @@ My GitHub is my mad scientist laboratory, where I do experiments, learn new tech
 [![linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eliton-machado-da-silva-098b0a1a2)
 [![mail](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:elitonmachadod200@gmail.com)
 [![telegram](https://img.shields.io/badge/-telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ElitonMachado)
-[![codeforces](https://img.shields.io/badge/CodeForces-white?style=for-the-badge&logo=codeforces&logoColor=red)](https://codeforces.com/profile/Machado)
+[![codeforces](https://img.shields.io/badge/CodeForces-white?style=flat-square&logo=codeforces&logoColor=red)](https://codeforces.com/profile/Machado)
   
 </div>
 
