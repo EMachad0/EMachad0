@@ -32,7 +32,7 @@ I do have several years of experience as a full-stack engineer in web developmen
 
 My passion is System programming. There is nothing more impressive to me than creating fast and scalable applications. I have been studying a lot of Rust, Game engine architecture, Compilers and Programming languages designs, Linux internals for LPIC-1, distributed systems, parallelization and artificial intelligence...
 
-My main drive is competition, and I'm proud of my achievements as a competitive programming contestant — including being a two-time Brazilian ICPC medalist.
+My main drive is competition, and I'm proud of my achievements as a competitive programming contestant, including being a two-time Brazilian ICPC medalist.
 
 My GitHub is my mad scientist laboratory, where I do experiments, learn new technologies, and create what I feel will improve the world.
 
