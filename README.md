@@ -24,7 +24,7 @@
 
 ## Who am I
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=EMachad0&show_icons=true&theme=tokyonight">](https://github-readme-stats.vercel.app/api?username=EMachad0&show_icons=true&theme=tokyonight)
+<!-- [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=EMachad0&show_icons=true&theme=tokyonight">](https://github-readme-stats.vercel.app/api?username=EMachad0&show_icons=true&theme=tokyonight) -->
 
 Living in Joinville - SC, Brazil. I hold a Bachelor's degree in Computer Science from UDESC, and I'm an enthusiast for innovation and technology.
 
@@ -32,9 +32,9 @@ I do have several years of experience as a full-stack engineer in web developmen
 
 My passion is System programming. There is nothing more impressive to me than creating fast and scalable applications. I have been studying a lot of Rust, Game engine architecture, Compilers and Programming languages designs, Linux internals for LPIC-1, distributed systems, parallelization and artificial intelligence...
 
-My main drive is competition, and I'm proud of my achievements as a competitive programming contestant, including being a two-time Brazilian ICPC medalist.
+My main drive is competition, and I'm proud of my achievements as a competitive programming contestant, including being a **two-time Brazilian ICPC medalist**.
 
-My GitHub is my mad scientist laboratory, where I do experiments, learn new technologies, and create what I feel will improve the world.
+My GitHub is my mad scientist laboratory, where I do experiments, learn new technologies, and create what I feel may improve the world.
 
 ## How to reach me
 
